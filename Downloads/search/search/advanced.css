@@ -1,0 +1,125 @@
+body {
+    font-family:arial, sans-serif;
+    text-align: left;
+    font-size:20px;
+}
+
+
+#advanced_submit {
+ background-color:blue;
+ font-family:Arial, sans-serif;
+ font-weight: bold;
+ box-shadow: none;
+    background-color: #4d90fe;
+    background-image: -webkit-linear-gradient(top,#4d90fe,#4787ed);
+    color:white;
+    user-select: none;
+    line-height: 100%;
+    height: 30px;
+    min-width: 120px;
+    border:0.05;
+    position:absolute;
+    top:400px;
+    left:1000px;
+    margin:10px 0;
+    text-align:center;
+
+}
+
+.advanced {
+    position: relative;
+    width:60%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    left:240px;
+    
+}
+a {
+color: grey;
+    text-decoration: none;
+    display: inline-block;
+    line-height: 24px;
+    outline: none;
+    vertical-align: middle;
+    position: absolute;
+    right: 75px;
+    top: 25px;
+}
+h2 {
+    color:rgb(217,48,37);
+    font-weight: 50;
+    font-size:25px;
+}
+h3 {
+    font-weight: lighter;
+}
+hr {
+    border-width: 0.6px;
+    border-color:grey;
+    
+}
+#label1 {
+    position: absolute;
+    top:150px;
+    left:10px;
+}
+
+#input1 {
+    position: absolute;
+    top:135px;
+
+}
+#label2 {
+    position:absolute;
+    left:10px;
+    top:200px;
+}
+#input2 {
+    position: absolute;
+    top:185px;
+}
+#label3 {
+    position:absolute;
+    left:10px;
+    top:250px;
+}
+#input3 {
+    position:absolute;
+    top:235px;
+}
+#label4 {
+    position: absolute;
+    left:10px;
+    top:300px;
+
+}
+#input4 {
+    position: absolute;
+    top:285px;
+}
+#label5 {
+    position: absolute;
+    left:10px;
+    top:350px;
+}
+#input5 {
+    position: absolute;
+    top:335px;
+    width:30%;
+}
+#label6 {
+    position: absolute;
+    top:350px;
+    left:700px;
+
+}
+#input6 {
+    position: absolute;
+    width:27.375%;
+    top:335px;
+    left:730px;
+}
